@@ -13,7 +13,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,opencv,github,vscode,docker,laravel,php,unity" /> <br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,cpp,apple,androidstudio,firebase,nodejs,gcp,opencv,github,vscode,docker,laravel,php,unity" /> <br />
 
   ※Another skill and tools 
   
