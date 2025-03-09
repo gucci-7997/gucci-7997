@@ -1,16 +1,19 @@
-## Hi there 👋
+# Backend Developer in Japan👋
+### Just 22 years old 
 
-<!--
-**gucci-7997/gucci-7997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gucci-7997 GitHub stats](https://github-readme-stats.vercel.app/api?username=gucci-7997&show_icons=true&theme=vue-dark)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-7997&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=gucci-7997&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> 
+<img alt="Top Langs" height="300px" width="1000px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gucci-7997&theme=date_night"/>
+</p>
+
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,opencv,github,vscode,docker,laravel,php,unity" /> <br />
+
+  ※Another skill and tools 
+  
